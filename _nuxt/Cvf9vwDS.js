@@ -1,0 +1,1 @@
+import{d as o,a as n,i as t,o as a,J as s}from"./ho4iNXf7.js";const u=o({__name:"[...slug]",setup(_){return n({title:"Page not found — VEXI",path:"/404",noindex:!0}),(c,r)=>{const e=s;return a(),t(e)}}});export{u as default};
