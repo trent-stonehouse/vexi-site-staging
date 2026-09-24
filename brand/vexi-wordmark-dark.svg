@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="100" viewBox="0 0 360 100" fill="none" role="img" aria-label="VEXI">
+  <defs></defs>
+  <g transform="translate(4 14) scale(0.72)">
+    <path d="M26 34L50 70L74 34" stroke="#57bc80" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"></path>
+  </g>
+  <text x="88" y="66" font-family="DM Sans, Helvetica Neue, Arial, sans-serif" font-size="58" font-weight="700" letter-spacing="1.2" fill="#eceeec">VEXI</text>
+</svg>

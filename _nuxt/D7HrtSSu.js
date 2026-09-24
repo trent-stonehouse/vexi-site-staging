@@ -1,0 +1,1 @@
+import{V as n,p as o,Z as a}from"./DVpc9Hbb.js";function s(r){const u=n();return o(()=>{const e=u.query[r];if(typeof e=="string")return e;const t=a.value;return t&&t.path===(u.path.replace(/\/+$/,"")||"/")?t.query[r]??null:null})}export{s as u};

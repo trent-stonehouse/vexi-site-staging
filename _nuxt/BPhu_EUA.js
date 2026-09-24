@@ -1,0 +1,1 @@
+import{u as p,q as t}from"./DVpc9Hbb.js";function s(){const{planById:c,trialIsExternal:e,config:n}=p();return(a,i=n.cta.primaryPlan)=>{const r=c(i);t("plan_selected",{plan:r.id,price:r.price,placement:a}),e(i)&&t("checkout_started",{plan:r.id,price:r.price,placement:a})}}export{s as u};

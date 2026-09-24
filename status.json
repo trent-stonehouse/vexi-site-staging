@@ -1,0 +1,14 @@
+{
+  "seed": true,
+  "generated_at": null,
+  "components": [
+    { "key": "chat", "label": "The chat", "state": null, "since": null },
+    { "key": "designs", "label": "Designs", "state": null, "since": null },
+    { "key": "video", "label": "Video editing", "state": null, "since": null },
+    { "key": "publishing", "label": "Publishing", "state": null, "since": null },
+    { "key": "uploads", "label": "Uploads", "state": null, "since": null },
+    { "key": "sign-in", "label": "Sign-in", "state": null, "since": null },
+    { "key": "messages", "label": "Email and text messages", "state": null, "since": null }
+  ],
+  "incidents": []
+}
