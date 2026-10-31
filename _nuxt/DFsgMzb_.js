@@ -1,0 +1,1 @@
+import{d as o,a as n,q as t,c as a,T as s}from"./uPFVT-Wg.js";const u=o({__name:"[...slug]",setup(c){return n({title:"Page not found — VEXI",path:"/404",noindex:!0}),(_,r)=>{const e=s;return a(),t(e)}}});export{u as default};

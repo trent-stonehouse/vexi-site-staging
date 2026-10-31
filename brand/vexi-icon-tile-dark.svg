@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" fill="none" role="img" aria-label="VEXI">
+  <rect x="0.5" y="0.5" width="511" height="511" rx="143" fill="#0a0b0a" stroke="#1e2122"></rect>
+  <g transform="translate(115.2 115.2) scale(2.816)">
+    <path d="M26 34L50 70L74 34" stroke="#57bc80" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"></path>
+  </g>
+</svg>

@@ -1,0 +1,1 @@
+import{y as n,s as o,V as a}from"./uPFVT-Wg.js";function i(r){const u=n();return o(()=>{const e=u.query[r];if(typeof e=="string")return e;const t=a.value;return t&&t.path===(u.path.replace(/\/+$/,"")||"/")?t.query[r]??null:null})}export{i as u};

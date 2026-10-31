@@ -1,0 +1,1 @@
+const n=new Set(["slow-2g","2g","3g"]);function r(){return{slowLink:()=>{const e=navigator.connection;return e?e.saveData||e.effectiveType&&n.has(e.effectiveType)?!0:typeof e.downlink=="number"&&e.downlink>0&&e.downlink<2:!1},pageLoaded:()=>document.readyState==="complete"?Promise.resolve():new Promise(e=>window.addEventListener("load",()=>e(),{once:!0}))}}export{r as u};
