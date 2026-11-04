@@ -53,6 +53,7 @@ VEXI (formerly Social Realtr). The short form of this file is https://vexi.app/l
 - **Not used to train models.** We don't train models on your content. Your uploads are used to make your pieces and nothing else.
 - **Who on our team can see your data.** Staff access to client accounts is logged.
 - **Where it is stored.** Our hosting region and the kinds of providers that handle your data are listed in the privacy policy, and we update it before a new kind is added.
+- **Reporting a vulnerability.** Found something? Send it to us before you publish it and we will confirm receipt, fix it, and credit you if you want.
 
 ## Product
 
@@ -303,3 +304,9 @@ VEXI (formerly Social Realtr). The short form of this file is https://vexi.app/l
 - [Vista Social vs VEXI](https://vexi.app/compare/vista-social-vs-vexi): Vista Social schedules, answers and reports on the posts you bring, and generates images and clips. VEXI makes the posts, edits your footage and posts it.
 - [Vizard vs VEXI](https://vexi.app/compare/vizard-vs-vexi): Vizard turns long videos into short clips and schedules them. VEXI also starts from a photo, a link or nothing, and designs posts and carousels.
 - [Zebracat vs VEXI](https://vexi.app/compare/zebracat-vs-vexi): Zebracat makes faceless AI videos and its AI agent queues a month of them. VEXI edits your own footage, designs posts and carousels, and posts it all.
+
+## Legal
+
+- [Terms](https://vexi.app/terms): The free trial, billing, cancelling and refunds, in plain words.
+- [Privacy](https://vexi.app/privacy): What VEXI collects, why, who helps us run it, how long we keep it, and how to have it deleted.
+- [Cookies](https://vexi.app/cookies): What VEXI stores in your browser, what it is for, and how to turn it off.
