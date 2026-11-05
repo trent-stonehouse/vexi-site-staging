@@ -1,1 +1,0 @@
-import{u as n,v as a}from"./DqRmwSgI.js";function s(){const{planById:t,trialIsExternal:e,config:l}=n();return(r,c=l.cta.primaryPlan)=>{const i=t(c);a("cta_click",{id:"trial",placement:r}),a("plan_selected",{plan:i.id,price:i.price,placement:r}),e(c)&&a("checkout_started",{plan:i.id,price:i.price,placement:r})}}export{s as u};
