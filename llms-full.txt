@@ -114,13 +114,11 @@ VEXI (formerly Social Realtr). The short form of this file is https://vexi.app/l
 - [Service as software](https://vexi.app/blog/service-as-software): Software used to hand you a tool. VEXI does the work: you ask, and it writes, designs, edits and posts, and Autopilot fills your week ahead.
 - [How to make a social video with ChatGPT, step by step (the hard way)](https://vexi.app/blog/make-a-social-video-with-chatgpt): The real ChatGPT video pipeline, step by step: script, voice, visuals, edit, cover and schedule. What each step takes, what it costs, and the shortcut.
 - [Is AI replacing the videographer and the content creator?](https://vexi.app/blog/is-ai-replacing-the-videographer): For most businesses' social content, the hiring is going away. Where a human videographer still wins, and what changes when a shoot becomes a request.
-- [ChatGPT vs Claude vs Gemini for social media content, and what none of them do](https://vexi.app/blog/chatgpt-vs-claude-vs-gemini-for-social-media): What ChatGPT, Claude and Gemini each make for social media, how they connect to other tools, and the part of the job none of them does.
 - [YouTube growth tricks that work right now, for Shorts and long-form](https://vexi.app/blog/youtube-growth-tricks-that-work): YouTube growth tricks for Shorts and long-form: thumbnail tests, end screens, chapters, Shorts funnels, and the gray-area hacks with their honest risk.
 - [Instagram and TikTok growth tricks: what works, and what gets accounts restricted](https://vexi.app/blog/instagram-and-tiktok-growth-tricks): Instagram and TikTok growth tricks that work: hooks, trial reels, collabs, search keywords, audio. Plus pods, follow/unfollow and bought views, and the risks.
 - [Google Business Profile ranking tricks for a local business, and the ones that get you suspended](https://vexi.app/blog/google-business-profile-ranking-tricks): Google Business Profile ranking tricks for local businesses: categories, services, photos, posts and real reviews. Plus the black-hat moves that get suspended.
 - [How to make a social video with Claude, step by step (the hard way)](https://vexi.app/blog/make-a-social-video-with-claude): The real Claude video route: script, connectors to Canva, Zapier and n8n, voice, visuals, edit and schedule. Time and cost per step, and the shortcut.
 - [How to make a social video with Gemini, step by step (the hard way)](https://vexi.app/blog/make-a-social-video-with-gemini): The real Gemini video route: script, Omni and Veo clips, Flow, edit, captions, cover and schedule. Time and cost per step, and the shortcut.
-- [Captions (now Mirage) vs service as software: which one a business actually needs](https://vexi.app/blog/captions-vs-service-as-software): A fair look at Captions, now Mirage, against service as software: where each wins, what each costs, and which one your business needs.
 - [Top 10 Los Angeles Real Estate Agents on Social Media](https://vexi.app/blog/top-10-los-angeles-real-estate-agents-on-social-media): The top 10 Los Angeles real estate agents on social media — LA pros covering luxury beachfront, suburban, and urban listings.
 - [How to Repurpose 1 Real Estate Video into 10 Pieces of Content](https://vexi.app/blog/repurpose-real-estate-video-content): Turn one real estate video into 10 pieces of content. The repurpose system for Reels, carousels, blog posts, emails, and more from a single recording.
 - [How to Build a Real Estate Referral Network That Sends You Deals on Autopilot](https://vexi.app/blog/real-estate-referral-network): Build a real estate referral network that generates $50K-$250K per year. BNI system, Power 7 partners, and the Givers Gain strategy for agents.
@@ -188,7 +186,6 @@ VEXI (formerly Social Realtr). The short form of this file is https://vexi.app/l
 - [Stop Paying $500/Month for 6 Real Estate Tools — Use One System Instead](https://vexi.app/blog/stop-paying-500-month-for-6-real-estate-tools-use-one-system-instead): Stop paying $500 per month for 6 separate real estate tools. Compare tools vs systems.
 - [Viral Instagram Growth Strategies for Real Estate Agents in 2026](https://vexi.app/blog/viral-instagram-growth-strategies-for-real-estate-agents-in-2026): Grow your Instagram with 4 viral strategies for real estate agents. Use local hooks, niche targeting, success stories, and follower campaigns.
 - [How to Use Sandcastles.ai to Get Unlimited Real Estate Content Ideas](https://vexi.app/blog/how-to-use-sandcastles-ai-to-get-unlimited-real-estate-content-ideas): Use Sandcastles.ai to find unlimited real estate content ideas. Analyze outlier scores and transcripts to create viral social media posts.
-- [10 Paid Real Estate Tools You Can Replace With Smarter (and Cheaper) Alternatives](https://vexi.app/blog/10-paid-real-estate-tools-you-can-replace-with-smarter-and-cheaper-alternatives): Replace 10 paid real estate tools with smarter alternatives. Save money on Canva, Hootsuite, Mailchimp, and more with free or cheaper options.
 - [How to Buy Instagram Followers the Right Way for Real Estate](https://vexi.app/blog/how-to-buy-instagram-followers-the-right-way-for-real-estate): Buy Instagram followers the right way using boost-to-profile targeting. Attract real local followers who become real estate leads.
 - [YouTube for Real Estate Agents: The Complete Setup-to-Growth Guide (2026)](https://vexi.app/blog/youtube-for-real-estate-agents-the-complete-setup-to-growth-guide-2026): The complete YouTube guide for real estate agents. From channel setup to keyword strategy to getting 30K subscribers and generating leads.
 - [Instagram for Real Estate Agents: The Complete 2026 Guide](https://vexi.app/blog/instagram-for-real-estate-agents-the-complete-2026-guide): The complete Instagram guide for real estate agents in 2026. Cover growth strategies, algorithm changes, settings, Stories, and Reels.
@@ -256,54 +253,47 @@ VEXI (formerly Social Realtr). The short form of this file is https://vexi.app/l
 ## Compare
 
 - [Compare](https://vexi.app/compare): How VEXI compares with the AI tools, apps and agencies people weigh it against.
-- [Agent Crate vs VEXI](https://vexi.app/compare/agent-crate-vs-social-realtr): Compare Agent Crate vs VEXI side-by-side. VEXI, the AI content studio that runs your social media for entrepreneurs and creators.
-- [Agorapulse vs VEXI](https://vexi.app/compare/agorapulse-vs-social-realtr): Compare Agorapulse vs VEXI side-by-side. VEXI, the AI content studio that runs your social media for entrepreneurs and creators.
-- [Back At You vs VEXI](https://vexi.app/compare/back-at-you-vs-social-realtr): Compare Back At You vs VEXI side-by-side. VEXI, the AI content studio that runs your social media for entrepreneurs and creators.
-- [Blink Marketing vs VEXI](https://vexi.app/compare/blink-marketing-vs-social-realtr): Compare Blink Marketing vs VEXI. Pricing, features, reviews side-by-side. See why 2,000+ clients choose VEXI.
-- [Buffer vs VEXI](https://vexi.app/compare/buffer-vs-social-realtr): Compare Buffer vs VEXI side-by-side. VEXI, the AI content studio that runs your social media for entrepreneurs and creators.
-- [Buffini Social Suite vs VEXI](https://vexi.app/compare/buffini-social-suite-vs-social-realtr): Compare Buffini Social Suite vs VEXI. Pricing, features, reviews side-by-side. See why 2,000+ clients choose VEXI.
-- [Bulletproof vs VEXI](https://vexi.app/compare/bulletproof-vs-social-realtr): Compare Bulletproof vs VEXI side-by-side. One charges $399–$3,999/mo on a 12-month contract. Here is the full breakdown.
-- [Canva vs VEXI](https://vexi.app/compare/canva-vs-vexi): Canva gives you a design canvas and a planner. VEXI designs the post, edits your video, writes the caption and posts it, and Autopilot runs your week.
-- [CapCut vs VEXI](https://vexi.app/compare/capcut-vs-vexi): CapCut is a capable video editor that you drive. VEXI edits the video for you, writes and designs the post, and posts it.
-- [Captions.ai vs VEXI](https://vexi.app/compare/captions-ai-vs-social-realtr): Compare Captions.ai vs VEXI side-by-side. VEXI, the AI content studio that runs your social media for entrepreneurs and creators.
-- [ChatGPT vs VEXI](https://vexi.app/compare/chatgpt-vs-vexi): ChatGPT writes and makes images in a chat. VEXI writes, designs, edits video and posts it for you, and Autopilot runs your week.
-- [CityBlast vs VEXI](https://vexi.app/compare/cityblast-vs-social-realtr): Compare CityBlast vs VEXI side-by-side. VEXI, the AI content studio that runs your social media for entrepreneurs and creators.
-- [Claude vs VEXI](https://vexi.app/compare/claude-vs-vexi): Claude writes well in a chat. VEXI writes, designs, edits video and posts it for you, and Autopilot runs your week.
-- [Coffee & Contracts vs VEXI](https://vexi.app/compare/coffeecontracts-vs-social-realtr): Compare Coffee & Contracts vs VEXI side-by-side. See pricing, features, reviews, and why 2,000+ clients chose VEXI.
-- [CoSchedule vs VEXI](https://vexi.app/compare/coschedule-vs-social-realtr): Compare CoSchedule vs VEXI side-by-side. VEXI, the AI content studio that runs your social media for entrepreneurs and creators.
-- [Creatify vs VEXI](https://vexi.app/compare/creatify-vs-vexi): Creatify makes AI video ads with avatars from a product link. VEXI makes and posts your organic social media, and Autopilot runs your week.
-- [Curated Social vs VEXI](https://vexi.app/compare/curated-social-vs-social-realtr): Compare Curated Social vs VEXI. Pricing, features, reviews side-by-side. See why 2,000+ clients choose VEXI.
-- [Descript vs VEXI](https://vexi.app/compare/descript-vs-vexi): Descript edits video by editing the transcript. VEXI edits the video for you, designs the post, and schedules and posts it.
-- [Fiverr vs VEXI](https://vexi.app/compare/fiverr-vs-social-realtr): Compare Fiverr vs VEXI side-by-side. VEXI, the AI content studio that runs your social media for entrepreneurs and creators.
-- [Gemini vs VEXI](https://vexi.app/compare/gemini-vs-vexi): Gemini writes, makes images and generates video clips in a chat. VEXI edits your own footage, designs and posts it for you, and Autopilot runs your week.
-- [HeyGen vs VEXI](https://vexi.app/compare/heygen-vs-vexi): HeyGen makes AI avatar videos from a script. VEXI edits your own footage, designs and writes the post, and posts it.
-- [Homesnap vs VEXI](https://vexi.app/compare/homesnap-vs-social-realtr): Compare HomeSnap vs VEXI side-by-side. Homesnap was acquired and sunsetted. Compare the two side by side.
-- [Hootsuite vs VEXI](https://vexi.app/compare/hootsuite-vs-social-realtr): Compare Hootsuite vs VEXI side-by-side. Hootsuite schedules your posts.
-- [InVideo AI vs VEXI](https://vexi.app/compare/invideo-ai-vs-vexi): InVideo AI turns scripts and footage into videos. VEXI makes the video, designs and writes the post, and schedules and posts it.
-- [KCM vs VEXI](https://vexi.app/compare/kcm-vs-social-realtr): Compare KCM vs VEXI side-by-side. Compare KCM (Keeping Current Matters) vs VEXI to see which platform actually grows your real estate brand.
-- [Longhouse Media vs VEXI](https://vexi.app/compare/longhouse-media-vs-social-realtr): Compare Longhouse Media vs VEXI. Pricing, features, reviews side-by-side. See why 2,000+ clients choose VEXI.
-- [Loomly vs VEXI](https://vexi.app/compare/loomly-vs-social-realtr): Compare Loomly vs VEXI side-by-side. VEXI, the AI content studio that runs your social media for entrepreneurs and creators.
-- [Luxury Presence vs VEXI](https://vexi.app/compare/luxury-presence-vs-social-realtr): Compare Luxury Presence vs VEXI. Pricing, features, reviews side-by-side. See why 2,000+ clients choose VEXI.
-- [LYFE Marketing vs VEXI](https://vexi.app/compare/lyfe-marketing-vs-social-realtr): Compare LYFE Marketing vs VEXI. Pricing, features, reviews side-by-side. See why 2,000+ clients choose VEXI.
+- [Agent Crate vs VEXI](https://vexi.app/compare/agent-crate-vs-social-realtr): Agent Crate and VEXI, side by side: what each one does and what it costs, from each company's own pages.
+- [Agorapulse vs VEXI](https://vexi.app/compare/agorapulse-vs-social-realtr): Agorapulse and VEXI, side by side: what each one does and what it costs, from each company's own pages.
+- [Blink Marketing vs VEXI](https://vexi.app/compare/blink-marketing-vs-social-realtr): Blink Marketing and VEXI, side by side: what each one does and what it costs, from each company's own pages.
+- [Buffer vs VEXI](https://vexi.app/compare/buffer-vs-social-realtr): Buffer and VEXI, side by side: what each one does and what it costs, from each company's own pages.
+- [Buffini Social Suite vs VEXI](https://vexi.app/compare/buffini-social-suite-vs-social-realtr): Buffini Social Suite and VEXI, side by side: what each one does and what it costs, from each company's own pages.
+- [Bulletproof vs VEXI](https://vexi.app/compare/bulletproof-vs-social-realtr): Bulletproof and VEXI, side by side: what each one does and what it costs, from each company's own pages.
+- [CapCut vs VEXI](https://vexi.app/compare/capcut-vs-vexi): CapCut and VEXI, side by side: what each one does and what it costs, from each company's own pages.
+- [Captions.ai vs VEXI](https://vexi.app/compare/captions-ai-vs-social-realtr): Captions.ai and VEXI, side by side: what each one does and what it costs, from each company's own pages.
+- [CityBlast vs VEXI](https://vexi.app/compare/cityblast-vs-social-realtr): CityBlast and VEXI, side by side: what each one does and what it costs, from each company's own pages.
+- [Coffee & Contracts vs VEXI](https://vexi.app/compare/coffeecontracts-vs-social-realtr): Coffee & Contracts and VEXI, side by side: what each one does and what it costs, from each company's own pages.
+- [CoSchedule vs VEXI](https://vexi.app/compare/coschedule-vs-social-realtr): CoSchedule and VEXI, side by side: what each one does and what it costs, from each company's own pages.
+- [Creatify vs VEXI](https://vexi.app/compare/creatify-vs-vexi): Creatify and VEXI, side by side: what each one does and what it costs, from each company's own pages.
+- [Curated Social vs VEXI](https://vexi.app/compare/curated-social-vs-social-realtr): Curated Social and VEXI, side by side: what each one does and what it costs, from each company's own pages.
+- [Descript vs VEXI](https://vexi.app/compare/descript-vs-vexi): Descript and VEXI, side by side: what each one does and what it costs, from each company's own pages.
+- [Gemini vs VEXI](https://vexi.app/compare/gemini-vs-vexi): Gemini and VEXI, side by side: what each one does and what it costs, from each company's own pages.
+- [HeyGen vs VEXI](https://vexi.app/compare/heygen-vs-vexi): HeyGen and VEXI, side by side: what each one does and what it costs, from each company's own pages.
+- [Hootsuite vs VEXI](https://vexi.app/compare/hootsuite-vs-social-realtr): Hootsuite and VEXI, side by side: what each one does and what it costs, from each company's own pages.
+- [InVideo AI vs VEXI](https://vexi.app/compare/invideo-ai-vs-vexi): InVideo AI and VEXI, side by side: what each one does and what it costs, from each company's own pages.
+- [KCM vs VEXI](https://vexi.app/compare/kcm-vs-social-realtr): KCM and VEXI, side by side: what each one does and what it costs, from each company's own pages.
+- [Longhouse Branding & Marketing vs VEXI](https://vexi.app/compare/longhouse-media-vs-social-realtr): Longhouse Branding & Marketing and VEXI, side by side: what each one does and what it costs, from each company's own pages.
+- [Loomly vs VEXI](https://vexi.app/compare/loomly-vs-social-realtr): Loomly and VEXI, side by side: what each one does and what it costs, from each company's own pages.
+- [LYFE Marketing vs VEXI](https://vexi.app/compare/lyfe-marketing-vs-social-realtr): LYFE Marketing and VEXI, side by side: what each one does and what it costs, from each company's own pages.
 - [Optimize5 vs VEXI](https://vexi.app/compare/optimize5-vs-social-realtr): Compare Optimize5 vs VEXI side-by-side. VEXI, the AI content studio that runs your social media for entrepreneurs and creators.
-- [OpusClip vs VEXI](https://vexi.app/compare/opusclip-vs-vexi): OpusClip turns long videos into short clips. VEXI does that too, and also writes, designs and posts everything else, on Autopilot.
-- [Page Pros vs VEXI](https://vexi.app/compare/page-pros-vs-social-realtr): Compare Page Pros vs VEXI side-by-side. Page Pros charges $299–$399/mo plus $500–$1,000 setup fees for Google SEO alone.
-- [Pippit vs VEXI](https://vexi.app/compare/pippit-vs-vexi): Pippit makes videos, avatars and images and schedules them to TikTok, Facebook and Instagram. VEXI edits your own footage, designs, writes and posts.
-- [PorchLyte vs VEXI](https://vexi.app/compare/porchlyte-vs-social-realtr): Compare PorchLyte vs VEXI side-by-side. VEXI, the AI content studio that runs your social media for entrepreneurs and creators.
-- [Predis.ai vs VEXI](https://vexi.app/compare/predis-ai-vs-vexi): Predis.ai generates templated reels, carousels and ads from a prompt. VEXI edits your own footage, makes long-form video, designs and posts.
-- [RealGrader vs VEXI](https://vexi.app/compare/realgrader-vs-social-realtr): Compare RealGrader vs VEXI side-by-side. VEXI, the AI content studio that runs your social media for entrepreneurs and creators.
-- [Revid vs VEXI](https://vexi.app/compare/revid-vs-vexi): Revid makes short-form videos and its Auto-Mode publishes them on its own. VEXI edits your own footage, designs posts and carousels, and posts it all.
-- [Roomvu vs VEXI](https://vexi.app/compare/roomvu-vs-social-realtr): Compare Roomvu vs VEXI side-by-side. VEXI, the AI content studio that runs your social media for entrepreneurs and creators.
-- [Simplified vs VEXI](https://vexi.app/compare/simplified-vs-vexi): Simplified sells AI agents that turn a brief into a campaign of posts for you to approve. VEXI also edits your own footage and makes long-form video.
-- [SmartSites vs VEXI](https://vexi.app/compare/smartsites-vs-social-realtr): Compare SmartSites vs VEXI side-by-side. VEXI, the AI content studio that runs your social media for entrepreneurs and creators.
-- [SocialBee vs VEXI](https://vexi.app/compare/socialbee-vs-social-realtr): Compare SocialBee vs VEXI side-by-side. VEXI, the AI content studio that runs your social media for entrepreneurs and creators.
-- [SocialPilot vs VEXI](https://vexi.app/compare/socialpilot-vs-social-realtr): Compare SocialPilot vs VEXI side-by-side. VEXI, the AI content studio that runs your social media for entrepreneurs and creators.
-- [Sprout Social vs VEXI](https://vexi.app/compare/sprout-social-vs-social-realtr): Compare Sprout Social vs VEXI side-by-side. VEXI, the AI content studio that runs your social media for entrepreneurs and creators.
-- [Submagic vs VEXI](https://vexi.app/compare/submagic-vs-vexi): Submagic adds captions and B-roll to the short videos you upload, and schedules them. VEXI also designs posts, makes long-form video and posts everywhere.
-- [Thrive Agency vs VEXI](https://vexi.app/compare/thrive-agency-vs-social-realtr): Compare Thrive Agency vs VEXI side-by-side. VEXI, the AI content studio that runs your social media for entrepreneurs and creators.
-- [Vista Social vs VEXI](https://vexi.app/compare/vista-social-vs-vexi): Vista Social schedules, answers and reports on the posts you bring, and generates images and clips. VEXI makes the posts, edits your footage and posts it.
-- [Vizard vs VEXI](https://vexi.app/compare/vizard-vs-vexi): Vizard turns long videos into short clips and schedules them. VEXI also starts from a photo, a link or nothing, and designs posts and carousels.
-- [Zebracat vs VEXI](https://vexi.app/compare/zebracat-vs-vexi): Zebracat makes faceless AI videos and its AI agent queues a month of them. VEXI edits your own footage, designs posts and carousels, and posts it all.
+- [OpusClip vs VEXI](https://vexi.app/compare/opusclip-vs-vexi): OpusClip and VEXI, side by side: what each one does and what it costs, from each company's own pages.
+- [Page Pros vs VEXI](https://vexi.app/compare/page-pros-vs-social-realtr): Page Pros and VEXI, side by side: what each one does and what it costs, from each company's own pages.
+- [Pippit vs VEXI](https://vexi.app/compare/pippit-vs-vexi): Pippit and VEXI, side by side: what each one does and what it costs, from each company's own pages.
+- [PorchLyte vs VEXI](https://vexi.app/compare/porchlyte-vs-social-realtr): PorchLyte and VEXI, side by side: what each one does and what it costs, from each company's own pages.
+- [Predis.ai vs VEXI](https://vexi.app/compare/predis-ai-vs-vexi): Predis.ai and VEXI, side by side: what each one does and what it costs, from each company's own pages.
+- [RealGrader vs VEXI](https://vexi.app/compare/realgrader-vs-social-realtr): RealGrader and VEXI, side by side: what each one does and what it costs, from each company's own pages.
+- [Revid vs VEXI](https://vexi.app/compare/revid-vs-vexi): Revid and VEXI, side by side: what each one does and what it costs, from each company's own pages.
+- [Roomvu vs VEXI](https://vexi.app/compare/roomvu-vs-social-realtr): Roomvu and VEXI, side by side: what each one does and what it costs, from each company's own pages.
+- [Simplified vs VEXI](https://vexi.app/compare/simplified-vs-vexi): Simplified and VEXI, side by side: what each one does and what it costs, from each company's own pages.
+- [SmartSites vs VEXI](https://vexi.app/compare/smartsites-vs-social-realtr): SmartSites and VEXI, side by side: what each one does and what it costs, from each company's own pages.
+- [SocialBee vs VEXI](https://vexi.app/compare/socialbee-vs-social-realtr): SocialBee and VEXI, side by side: what each one does and what it costs, from each company's own pages.
+- [SocialPilot vs VEXI](https://vexi.app/compare/socialpilot-vs-social-realtr): SocialPilot and VEXI, side by side: what each one does and what it costs, from each company's own pages.
+- [Sprout Social vs VEXI](https://vexi.app/compare/sprout-social-vs-social-realtr): Sprout Social and VEXI, side by side: what each one does and what it costs, from each company's own pages.
+- [Submagic vs VEXI](https://vexi.app/compare/submagic-vs-vexi): Submagic and VEXI, side by side: what each one does and what it costs, from each company's own pages.
+- [Thrive Agency vs VEXI](https://vexi.app/compare/thrive-agency-vs-social-realtr): Thrive Agency and VEXI, side by side: what each one does and what it costs, from each company's own pages.
+- [Vista Social vs VEXI](https://vexi.app/compare/vista-social-vs-vexi): Vista Social and VEXI, side by side: what each one does and what it costs, from each company's own pages.
+- [Vizard vs VEXI](https://vexi.app/compare/vizard-vs-vexi): Vizard and VEXI, side by side: what each one does and what it costs, from each company's own pages.
+- [Zebracat vs VEXI](https://vexi.app/compare/zebracat-vs-vexi): Zebracat and VEXI, side by side: what each one does and what it costs, from each company's own pages.
 
 ## Legal
 
